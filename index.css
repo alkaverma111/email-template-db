@@ -1,0 +1,30 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: rgb(193, 185, 185);
+}
+table{
+    background-color: whitesmoke
+}
+#logo {
+    font-size: 1.8rem;
+    word-spacing: 0px;
+    color: #f8ba24;
+    text-shadow: 2px 2px 2px #0c0c0c, 3px 3px 3px black;
+}
+a{
+    text-decoration: none;
+    letter-spacing: 2px;
+    background-color: slateblue;
+    color: white;
+    padding: 10px;
+    border-radius: 15px;
+}
+button{
+    background-color: slateblue;
+    color: white;
+    border-radius: 12px;
+    padding: 8px 20px;
+    border-color: rgb(178, 172, 216);
+}
